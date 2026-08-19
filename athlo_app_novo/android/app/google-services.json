@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "622159023802",
+    "project_id": "atlho-app",
+    "storage_bucket": "atlho-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622159023802:android:c89353f23f8220e0a9fc83",
+        "android_client_info": {
+          "package_name": "com.example.athlo_app_novo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622159023802-bn3d0ceqbn6ovqsi2slars94ukqkp24f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.athlo_app_novo",
+            "certificate_hash": "75e3cc00bf5f07c7519d2583fa8f7efade0a5ed4"
+          }
+        },
+        {
+          "client_id": "622159023802-v3g2sb683747geinu53frp592vrbf846.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSRlT9wko6O3vizMaenMoRuAreak4qjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622159023802-v3g2sb683747geinu53frp592vrbf846.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622159023802-ro49tma345s9bnpnr3grbsj4l49q5us2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.athloAppNovo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
