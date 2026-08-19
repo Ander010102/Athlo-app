@@ -8,7 +8,7 @@ O aplicativo integra recursos de rede social, geolocalização e comunicação e
 ---
 
 <p align="center">
-  <img src="athlo_app_novo/assets/images/Athlo.png" width="800" />
+  <img src="Athlo.png" width="800" />
 </p>
 
 ---
